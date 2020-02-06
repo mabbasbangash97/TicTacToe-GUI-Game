@@ -1,2 +1,2 @@
-# TicTacToe-GUI-Game-C-
+# TicTacToe-GUI-Game
 TicTacToe GUI Game in C#
