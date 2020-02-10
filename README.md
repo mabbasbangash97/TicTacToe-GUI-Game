@@ -6,6 +6,7 @@ with Sounds and a Decent GUI
 #Requirements:
 
 1)Csharp compiler(csc) installed (for linux/mac).
+
 2)Visual Studio recommendedfor ease, however it will work without it.
 
 #Things To Change in the code for issue-less and fluent running program:
