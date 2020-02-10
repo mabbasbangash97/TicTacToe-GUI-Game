@@ -2,7 +2,7 @@
 TicTacToe GUI Game in C#
 with Sounds and a Decent GUI
 
-Requirements:
+#Requirements:
 1)Csharp compiler(csc) installed (for linux/mac).
 2)Visual Studio recommendedfor ease, however it will work without it.
 
